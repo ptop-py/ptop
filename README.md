@@ -2,6 +2,7 @@
 ## Presents
 ### Ptop
 #### Top, But Written in Python
+[![GitHub version](https://badge.fury.io/gh/DWhirlpool%2Fptop.svg)](https://badge.fury.io/gh/DWhirlpool%2Fptop)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
