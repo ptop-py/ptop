@@ -15,4 +15,8 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
       - run: npm i @dwhirlpool/consoledotfrog
+      - run: console.frog("Ptop");
