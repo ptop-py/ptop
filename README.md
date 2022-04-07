@@ -8,7 +8,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
-* [Installation](#Installation)
 ## General info
 Based on the Unix command 
 ```
