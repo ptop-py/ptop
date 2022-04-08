@@ -6,6 +6,7 @@
 [![codecov](https://codecov.io/gh/DWhirlpool/ptop/branch/main/graph/badge.svg?token=UKFXBEJBSY)](https://codecov.io/gh/DWhirlpool/ptop)
 [![Documentation Status](https://readthedocs.org/projects/ptop/badge/?version=latest)](https://ptop.readthedocs.io/en/latest/?badge=latest)
 [![Build status](https://ci.appveyor.com/api/projects/status/rk44r0r9s8d3l28o?svg=true)](https://ci.appveyor.com/project/DWhirlpool/ptop)
+[![CircleCI](https://circleci.com/gh/DWhirlpool/ptop/tree/main.svg?style=svg)](https://circleci.com/gh/DWhirlpool/ptop/tree/main)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
