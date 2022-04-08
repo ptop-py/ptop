@@ -5,6 +5,7 @@
 [![GitHub version](https://badge.fury.io/gh/DWhirlpool%2Fptop.svg)](https://badge.fury.io/gh/DWhirlpool%2Fptop)
 [![codecov](https://codecov.io/gh/DWhirlpool/ptop/branch/main/graph/badge.svg?token=UKFXBEJBSY)](https://codecov.io/gh/DWhirlpool/ptop)
 [![Documentation Status](https://readthedocs.org/projects/ptop/badge/?version=latest)](https://ptop.readthedocs.io/en/latest/?badge=latest)
+[![Build status](https://ci.appveyor.com/api/projects/status/rk44r0r9s8d3l28o?svg=true)](https://ci.appveyor.com/project/DWhirlpool/ptop)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
