@@ -9,6 +9,8 @@
 [![CircleCI](https://circleci.com/gh/DWhirlpool/ptop/tree/main.svg?style=svg)](https://circleci.com/gh/DWhirlpool/ptop/tree/main)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Fdwhirlpool.github.io%2Fptop)
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"></img>
+
+Brought to you using  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
