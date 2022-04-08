@@ -7,6 +7,7 @@
 [![Documentation Status](https://readthedocs.org/projects/ptop/badge/?version=latest)](https://ptop.readthedocs.io/en/latest/?badge=latest)
 [![Build status](https://ci.appveyor.com/api/projects/status/rk44r0r9s8d3l28o?svg=true)](https://ci.appveyor.com/project/DWhirlpool/ptop)
 [![CircleCI](https://circleci.com/gh/DWhirlpool/ptop/tree/main.svg?style=svg)](https://circleci.com/gh/DWhirlpool/ptop/tree/main)
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Fdwhirlpool.github.io%2Fptop)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
