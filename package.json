@@ -1,0 +1,22 @@
+{
+  "name": "ptop.py",
+  "version": "2.1.2",
+  "description": "View System Processes",
+  "main": "ptop.exe",
+  "scripts": {
+    "test": "ptop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwhirlpool/ptop.git"
+  },
+  "keywords": [
+    "ptop"
+  ],
+  "author": "dwhirlpool",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dwhirlpool/ptop/issues"
+  },
+  "homepage": "https://github.com/dwhirlpool/ptop#readme"
+}

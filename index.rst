@@ -14,40 +14,27 @@ Ptop
 Top, But Written in Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|GitHub version| |codecov| |Documentation Status| 
-
-Table of contents
------------------
-
-\ `General info <#general-info>`__ 
-
-\ `Usage <#Usage>`__ \
-
-General info
-------------
-Based on the Unix command
+|GitHub version| |codecov| |Documentation Status| ## Table of contents
+\* `General info <#general-info>`__ \* `Usage <#Usage>`__ \*
+`Installation <#Installation>`__ ## General info Based on the Unix
+command
 
 ::
 
    top
 
-But written in python 
-
-Usage
------
-
-1. Extract Files 
-
-2. Move All the Files into the C:`\\Users\\username`, or if you have administrative access, C:`\\Windows\\System32`.
-
-3. If You did C:`\\Users\\username`, then open up Windows Command Processor(cmd) without administrative access
+But written in python ## Usage 1. Extract Files 2. Move All the Files
+into the C::raw-latex:`\Users`:raw-latex:`\username`, or if you have
+administrative access, C::raw-latex:`\Windows`:raw-latex:`\System32`. 3.
+If You did C::raw-latex:`\Users`:raw-latex:`\username`, then open up
+Windows Command Processor(cmd) without administrative access
 
 ::
 
    C:\Users\username>ptop
 
-  
-3. If you did C:`\\Windows\\System32`, then open up Windows Command Processor(cmd) as Administrator
+3. If you did C::raw-latex:`\Windows`:raw-latex:`\System32`, then open
+   up Windows Command Processor(cmd) as Administrator
 
 ::
 
