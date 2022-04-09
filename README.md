@@ -8,6 +8,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/rk44r0r9s8d3l28o?svg=true)](https://ci.appveyor.com/project/DWhirlpool/ptop)
 [![CircleCI](https://circleci.com/gh/DWhirlpool/ptop/tree/main.svg?style=svg)](https://circleci.com/gh/DWhirlpool/ptop/tree/main)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Fdwhirlpool.github.io%2Fptop)
+[![Build Status](https://app.travis-ci.com/DWhirlpool/ptop.svg?branch=main)](https://app.travis-ci.com/DWhirlpool/ptop)
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"></img>
 
 Brought to you using  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
