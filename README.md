@@ -20,6 +20,10 @@ Based on the Unix command
 top
 ```
 But written in python
+## Install
+```
+pip install ptop.py==2.1.1
+```
 ## Usage
 1. Extract Files
 2. Move All the Files into the C:\Users\username, or if you have administrative access, C:\Windows\System32.
