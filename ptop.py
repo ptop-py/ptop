@@ -32,6 +32,8 @@ def default():
             end=time()
             print("Executed In :",str(end-start),"s")
             sleep(5)
+        else:
+            exec("error.vbs")
     if opers=="linux":
         out = os.popen("top").read
         print(out)
