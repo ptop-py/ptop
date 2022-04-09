@@ -53,6 +53,8 @@ def modea():
     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀
             """)
             sleep(5)
+        else:
+            exec("error.vbs")
     elif opers=="linux":
         out = os.popen("top").read
         print(out)
