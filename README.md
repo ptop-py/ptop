@@ -2,6 +2,11 @@
 ## Presents
 ### Ptop
 #### Top, But Written in Python
+
+[![GitHub][github-badge]][github-sponsors]
+[![Ko-Fi][kofi-badge]][kofi]
+
+[![GitKraken shield][kraken]][kraken-ref]
 [![Build Status](https://dev.azure.com/dwhirlpool/ptop/_apis/build/status/ptop?branchName=main)](https://dev.azure.com/dwhirlpool/ptop/_build/latest?definitionId=1&branchName=main)
 [![GitHub version](https://badge.fury.io/gh/DWhirlpool%2Fptop.svg)](https://badge.fury.io/gh/DWhirlpool%2Fptop)
 [![codecov](https://codecov.io/gh/DWhirlpool/ptop/branch/main/graph/badge.svg?token=UKFXBEJBSY)](https://codecov.io/gh/DWhirlpool/ptop)
@@ -38,3 +43,10 @@ C:\Users\username>ptop
 C:\Windows\System32>ptop
 ```
 4. Have Fun! :D
+
+[kraken]: https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken
+[kraken-ref]: https://www.gitkraken.com/invite/nQmDPR9D
+[github-badge]: https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors
+[github-sponsors]: https://github.com/sponsors/dwhirlpool
+[kofi-badge]: https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee!-%2346b798.svg
+[kofi]: https://ko-fi.com/dwhirlpool
