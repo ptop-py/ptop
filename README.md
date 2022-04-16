@@ -6,6 +6,7 @@
 [![GitHub][github-badge]][github-sponsors]
 [![Ko-Fi][kofi-badge]][kofi]
 
+[![View in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/github/ptop-py/ptop)
 [![GitKraken shield][kraken]][kraken-ref]
 [![Build Status](https://dev.azure.com/dwhirlpool/ptop/_apis/build/status/ptop?branchName=main)](https://dev.azure.com/dwhirlpool/ptop/_build/latest?definitionId=1&branchName=main)
 [![GitHub version](https://badge.fury.io/gh/DWhirlpool%2Fptop.svg)](https://badge.fury.io/gh/DWhirlpool%2Fptop)
