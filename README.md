@@ -29,8 +29,20 @@ top
 ```
 But written in python
 ## Install
+GitHub CLI
+
 ```
-pip install ptop.py==2.1.1
+gh repo clone ptop-py/ptop
+```
+
+Git
+```
+git clone https://github.com/ptop-py/ptop.git
+```
+
+pip
+```
+pip install ptop.py
 ```
 ## Usage
 1. Extract Files
