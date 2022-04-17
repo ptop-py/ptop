@@ -1,6 +1,6 @@
-# DWhirlpool
-## Presents
-### Ptop
+# The ptop Team,
+## Presents,
+### Ptop,
 #### Top, But Written in Python
 
 [![GitHub][github-badge]][github-sponsors]
