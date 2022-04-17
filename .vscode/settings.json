@@ -1,4 +1,6 @@
 {
     "workbench.preferredDarkColorTheme": "Abyss",
-    "editor.suggest.localityBonus": false
+    "editor.suggest.localityBonus": false,
+    "workbench.colorTheme": "Abyss",
+    "workbench.preferredLightColorTheme": "Solarized Light"
 }
