@@ -29,6 +29,13 @@ top
 ```
 But written in python
 ## Install
+
+| Versions | Source Code (zip) | Source code (tar.gz) | Basic (zip) | Full (zip) | Full Setup(exe) | x86 Setup (exe) | x86 Setup (zip) | x86 Standalone Setup (exe) | x86 Standalone (exe) |
+| ----------- | ----------- | ---------- | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| v1.0.5 Preview | [Source code (zip)](https://github.com/ptop-py/ptop/archive/refs/tags/v1.0.5-beta.zip) | [Source code (tar.gz)](https://github.com/ptop-py/ptop/archive/refs/tags/v1.0.5-beta.tar.gz) | ❌ | [ptop-v1.0.5-full.zip](https://github.com/ptop-py/ptop/releases/download/v1.0.5-beta/ptop-v1.0.5.zip) | ❌ | ❌ | ❌ | ❌ | ❌ |
+| v2.1.0 | [Source code (zip)](https://github.com/ptop-py/ptop/archive/refs/tags/v2.1.0-beta.zip) | [Source code (tar.gz)](https://github.com/ptop-py/ptop/archive/refs/tags/v2.1.0-beta.tar.gz) | [ptop-v2.1.0-basic.zip](https://github.com/ptop-py/ptop/releases/download/v2.1.0-beta/ptop-v2.1.0-basic.zip) | [ptop-v2.1.0-full.zip](https://github.com/ptop-py/ptop/releases/download/v2.1.0-beta/ptop-v2.1.0-full.zip) | [ptop.v2.1.0-full.setup.exe](https://github.com/ptop-py/ptop/releases/download/v2.1.0-beta/ptop.v2.1.0-full.setup.exe) | ❌ | ❌ | ❌ | ❌ |
+| v2.1.1 | [Source code (zip)](https://github.com/ptop-py/ptop/archive/refs/tags/v2.1.1-stable.zip) | [Source code (tar.gz)](https://github.com/ptop-py/ptop/archive/refs/tags/v2.1.1-stable.tar.gz) | ❌ | ❌ | ❌ | [ptop-x86-setup.exe](https://github.com/ptop-py/ptop/releases/download/v2.1.1-stable/ptop-x86-setup.exe) | [ptop-x86-setup.zip](https://github.com/ptop-py/ptop/releases/download/v2.1.1-stable/ptop-x86-setup.zip) | [ptop-x86-standalone-setup.exe](https://github.com/ptop-py/ptop/releases/download/v2.1.1-stable/ptop-x86-standalone-setup.exe) | [ptop-x86-standalone.exe](https://github.com/ptop-py/ptop/releases/download/v2.1.1-stable/ptop-x86-standalone.exe) |
+
 GitHub CLI
 
 ```
@@ -40,7 +47,7 @@ Git
 git clone https://github.com/ptop-py/ptop.git
 ```
 
-pip
+pip <span style="color: red;">(Not Recommended)</span>
 ```
 pip install ptop.py
 ```
