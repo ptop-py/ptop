@@ -6,23 +6,19 @@
 [![GitHub][github-badge]][github-sponsors]
 [![Ko-Fi][kofi-badge]][kofi]
 
-[![View in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/github/ptop-py/ptop)
+[![View in vscode.dev](https://img.shields.io/badge/view%20in-vscode.dev-blue)](https://vscode.dev/github/ptop-py/ptop)
 [![GitKraken shield][kraken]][kraken-ref]
 [![Build Status](https://dev.azure.com/dwhirlpool/ptop/_apis/build/status/ptop?branchName=main)](https://dev.azure.com/dwhirlpool/ptop/_build/latest?definitionId=1&branchName=main)
 [![Featured on Openbase](https://badges.openbase.com/js/featured/ptop.py.svg?style=openbase&token=Di34gIAg0zqPWJHG+EHhKlekbKV61oiRvE3cENRe3vM=)](https://openbase.com/js/ptop.py?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 [![GitHub version](https://badge.fury.io/gh/DWhirlpool%2Fptop.svg)](https://badge.fury.io/gh/DWhirlpool%2Fptop)
-[![codecov](https://codecov.io/gh/DWhirlpool/ptop/branch/main/graph/badge.svg?token=UKFXBEJBSY)](https://codecov.io/gh/DWhirlpool/ptop)
-[![Documentation Status](https://readthedocs.org/projects/ptop/badge/?version=latest)](https://ptop.readthedocs.io/en/latest/?badge=latest)
-[![Build status](https://ci.appveyor.com/api/projects/status/rk44r0r9s8d3l28o?svg=true)](https://ci.appveyor.com/project/DWhirlpool/ptop)
-[![CircleCI](https://circleci.com/gh/DWhirlpool/ptop/tree/main.svg?style=svg)](https://circleci.com/gh/DWhirlpool/ptop/tree/main)
-![W3C Validation](https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Fdwhirlpool.github.io%2Fptop)
-[![Build Status](https://app.travis-ci.com/DWhirlpool/ptop.svg?branch=main)](https://app.travis-ci.com/DWhirlpool/ptop)
+[![ptop.py](https://snyk.io/advisor/python/ptop.py/badge.svg)](https://snyk.io/advisor/python/ptop.py)
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"></img>
 
 Brought to you using  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Table of contents
 * [General info](#general-info)
-* [Usage](#Usage)
+* [Install](#install)
+* [Usage](#usage)
 ## General info
 Based on the Unix command 
 ```
